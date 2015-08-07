@@ -1,0 +1,11 @@
+{
+  "name": "master-diff-viewer",
+  "version": "0.0.1",
+  "description": "csv diff viewer",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "luckypool",
+  "license": "ISC"
+}
