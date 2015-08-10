@@ -1,5 +1,15 @@
 # electron-csv-viewer
 
+http://electron.atom.io/
+
+global にいれとく
+
+
+```
+$ npm install electron-prebuilt -g
+
+```
+
 パッケージ化のメモ
 
 ```
